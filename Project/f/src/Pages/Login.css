@@ -1,0 +1,48 @@
+.bdr{
+    position: relative;
+    left: 250px;
+    top: 30px
+}
+.bdr1{
+    position: relative;
+    left: 1100px;
+    top: -300px;
+    /* background: rgb(231,219,219); */
+    border-radius: 30px;
+}
+.bdr1 img{
+    border-radius: 30px;
+}
+.row{
+  background: linear-gradient(to right, #8360c3, #2ebf91);
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    
+}
+.login{
+    position: relative;
+  left: 350px;
+  top: -25px
+}
+.inp{
+    position: relative;
+  left: 30px;
+}
+.btn1{
+    text-align: center;
+    padding: 70px;
+}
+.flex-container {
+    position: relative;
+    left: 720px;
+    top: -50px
+  }
+  
+  .nowrap  { 
+    position: relative;
+    left: 1100px;
+    top: -75px
+  }
